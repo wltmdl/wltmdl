@@ -2,19 +2,16 @@
 
 CODE
 
-
-    * t_vanilla
-    * t_node/express
-    * t_mongoDB
-   
-   
-|   😎   |   🐥   |  🍳🍔🥤  |
-|---|---|---|
-|`wanna`|`code`|`eat`|
+* t_vanilla
+    -
+* t_node/express
+    -
+* t_mongoDB
+    -
 
 
-|   😎   |   🐥   |  🍳🍔🥤  |
-|---|:---:|---:|
+|      😎      |      🐥      |    🍳🍔🥤    |
+|:---:|:---:|:---:|
 |`wanna`|`code`|`eat`|
 
 
