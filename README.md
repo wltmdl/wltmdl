@@ -1,11 +1,9 @@
+* tmdlflix
+
 * t_vanilla
-
 * t_node/express
-
 * t_mongoDB
 
-
-|😎|
 
 
 <!--
