@@ -1,8 +1,7 @@
-* tmdlflix
 
-* t_vanilla
-* t_node/express
-* t_mongoDB
+** tmdltube
+| - front: design
+| - back: with express & mongodb
 
 
 
